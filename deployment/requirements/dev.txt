@@ -1,0 +1,8 @@
+-r prod.txt
+requests_mock
+
+# Linting
+factory_boy
+ipython
+requests
+colorlog

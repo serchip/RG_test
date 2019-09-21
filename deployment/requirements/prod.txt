@@ -1,0 +1,9 @@
+Django==2.2.5
+pytz
+psycopg2-binary
+sklearn
+
+djangorestframework
+django-filter
+django-redis-cache
+hiredis
